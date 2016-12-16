@@ -1,2 +1,4 @@
 # i_learn_git
-#i made this to learn how to use github
+
+Hello world!
+This is the best readme ever. EVER!!
